@@ -18,7 +18,7 @@ Some things I've done:
 
 I [wrote some articles about how to evaluate companies when you're interviewing for a job](https://medium.com/@hross). Check them out if you want to know more about how I think.
 
-I also [wrote a blog here that is very sparsely populated](http://blog.hross.net/). It's old, but it will at least give you an idea of the wide variety of technologies and random things I've done.
+I also [wrote a blog here that is very sparsely populated](https://hross.substack.com/). It's old, but it will at least give you an idea of the wide variety of technologies and random things I've done.
 
 ## What are my principles?
 
